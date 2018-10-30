@@ -9,5 +9,5 @@ You can also check en version out from [mxnet-the-straight-dope](https://github.
 * Chapter4-Convolutional-Neural-Networks
 * Chapter6-Distributed-Learning
 * Chapter7-Optimization-Algorithm
-* Chapter8-Computer-Vision (**achieve 0.96720 on CIFAR-10 dataset**)
+* Chapter8-Computer-Vision (**Achieve 0.96720 on CIFAR-10 dataset**)
 * Chapter9-Generative-Adversarial-Networks
